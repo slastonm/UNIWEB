@@ -237,6 +237,50 @@ a#enter:hover{
 	font-size:14px;
 	color:#aaa9a9;
 }
+/*=========== style list =========*/
+.title_univers{
+    margin: -1px 0 7px 90px;
+    font-family: 'MuseoSansCyrl-700'!important;
+	font-size:15px;
+}
+
+.univers_list{
+    margin: 0 0 38px 90px;
+    padding: 0;
+}
+
+.univers_list li{
+    font-family: 'MuseoSansCyrl-500'!important;
+    list-style: none;
+	margin-bottom:0px;
+
+}
+
+.univers_list li span{
+	color:#bfd0e2;
+}
+
+.univers_list li a:hover{
+	color: #E75655;
+	text-decoration:none;
+}
+
+.univers_list li a span{
+	color:#c5cbcf;
+}
+
+.list_active{
+    color: #E75655!important;
+    list-style-image: url("../img/icon_yes.png")!important;
+}
+
+.list_active a{
+    font-family: 'MuseoSansCyrl-300'!important;
+    color: #E75655!important;
+}
+
+
+
 
 .bread_chambs span>img{
 	vertical-align: middle; 
