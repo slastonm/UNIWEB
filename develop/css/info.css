@@ -1,0 +1,114 @@
+@font-face {
+    font-family: 'als_rublregular';
+    src: url('../webfonts/rouble-webfont.eot');
+    src: url('../webfonts/rouble-webfont.eot?#iefix') format('embedded-opentype'), url('../webfonts/rouble-webfont.woff') format('woff'), url('../webfonts/rouble-webfont.ttf') format('truetype'), url('../webfonts/rouble-webfont.svg#als_rublregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.rubl {
+    font-family: als_rublregular;
+}
+
+
+.info_tittle {
+    margin: 44px 0px 20px;
+    font-size: 24px;
+    font-family: "MuseoSansCyrl-500";
+}
+
+.cour_table td,.cour_table th {
+    vertical-align: top;
+}
+
+.cour_table h4{
+    font-family: 'MuseoSansCyrl-500'!important;
+    font-size: 17px;
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.tr_border {
+    border-bottom: 1px solid #979797
+}
+
+.first_colum {
+    padding: 1px 0 0px 3px;
+    padding-left: 3px;
+    font-family: 'MuseoSansCyrl-500';
+    width: 58%;
+}
+.two_colum {
+    font-family: 'MuseoSansCyrl-500';
+    width: 20%;
+}
+.three_colum {
+    font-family: 'MuseoSansCyrl-500';
+    width: 12%;
+}
+.four_colum {
+    font-family: 'MuseoSansCyrl-500';
+    width: 10%;
+}
+
+.first_colum.text p a,.two_colum.text a,.three_colum.text p a,.four_colum.text p a {
+    color: #2A6496;
+}
+
+.first_colum.text p,
+.two_colum.text p,
+.three_colum.text p {
+    padding: 5px 0;
+    margin: 0;
+    font-family: 'MuseoSansCyrl-300'!important;
+    font-weight: 300;
+}
+
+.four_colum.text p {
+    padding: 5px 0;
+    width: 58px;
+    text-align: right;
+    margin: 0;
+    font-family: 'MuseoSansCyrl-300'!important;
+    font-weight: 300;
+}
+
+.diplom_list {
+    margin: 103px 0px 0px 100px;
+    padding: 0;
+}
+.diplom_list li {
+    list-style: none;
+    float: left;
+    display: block;
+}
+.diplom_list li p {
+    font-family: 'MuseoSansCyrl-500'!important;
+    font-weight: 700;
+    margin: 0 0 30px 3px;
+}
+.diplom_list li p a {
+    text-decoration: none;
+    color: #000;
+}
+.cour_table tr:hover {
+    background: #e8e8e8;
+}
+.first_colum.text p a:hover {
+    text-decoration: none;
+    color: #E75655;
+}
+.cour_table .tr_nohover:hover {
+    background: #f5f5f5;
+}
+@media (max-width: 769px) {
+    .diplom_list {
+        margin: 30px 0px 0px 10px;
+    }
+    .diplom_list li {
+        padding-right: 30px;
+        list-style: none;
+        float: left;
+        display: block;
+    }
+}

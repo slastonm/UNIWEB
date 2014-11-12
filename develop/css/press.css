@@ -1,0 +1,11 @@
+.bg_press{
+    height:582px;
+    margin: 0 auto 32px;
+    max-width: 1280px;
+    min-width: 640px;
+    background: url('../img/press.jpg')no-repeat scroll center 0 transparent;
+}
+
+.title_press{
+	font-family: 'MuseoSansCyrl-500';	
+}

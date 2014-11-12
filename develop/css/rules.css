@@ -1,0 +1,14 @@
+.rule_title_main{
+	font-family: 'MuseoSansCyrl-700';	
+}
+.rule_title{
+	font-family: 'MuseoSansCyrl-500';	
+}
+.rule_paragraph{
+text-align: justify;
+font-size: 12px ;
+line-height: 18px ;
+}
+.rule_paragraph.under{
+padding-left:22px;
+}

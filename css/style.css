@@ -43,6 +43,9 @@ a{
 	cursor:pointer;
 }
 
+.clear{
+	clear: both;
+}
 /*====== header ========*/
 .navbar p{
     color: #959595 !important;
@@ -2675,13 +2678,17 @@ padding-left:22px;
 	padding:0;
 }
 
+.coment_list{
+	position: relative;
+}
+
 .prepods_list li div{
 	display:inline-block;
 }
 
 .prepods_ava.comment{
 	float:left;
-	position: relative;
+	position: abcolute;
 	top: -3px;
 	width:70px;
 	height:70px;

@@ -1,0 +1,18 @@
+
+.left_block h2{
+	font-weight:700;
+}
+
+.slide_title{
+	cursor:pointer;
+	color:#1559A8;
+	font-size:16px;
+	font-family: 'MuseoSansCyrl-500';
+}
+
+.left_block dd, {
+	margin:0;
+}
+.left_block dt {
+	font-weight:300;
+}

@@ -1,0 +1,46 @@
+.vacancy_title{
+	font-size:28px;
+	margin:10px 0 20px 0;
+	font-family: 'MuseoSansCyrl-500';
+}
+
+.bg_vacancy{
+    height:582px;
+    margin: 0 auto 32px;
+    max-width: 1280px;
+    min-width: 640px;
+    background: url('../img/vacancy.jpg')no-repeat scroll center 0 transparent;
+}
+
+.vacancy_list{
+margin:0 0 0 14px;
+padding:0;
+}
+
+.vacancy_list li{
+	padding:0;
+}
+
+.vacancy_title.center{
+	text-align:center;
+}
+
+.vacancy_list_link{
+	margin:0 ;
+	padding:0;
+}
+
+.vacancy_list_link li{
+	list-style:none;
+}
+
+.vacancy_list_link li a{
+	font-weight:700;
+	text-decoration:none;
+	color:#000;
+	font-size:16px;
+}
+.consult.cours.vacancy{
+	margin-left:40px;
+	margin-top:15px;
+}

@@ -1,0 +1,18 @@
+.codeks_title_main{
+	font-family: 'MuseoSansCyrl-700';	
+}
+
+.border_gray{
+	height:1px;
+	background:#D8D8D8;
+}
+
+.codeks_title{
+	font-family: 'MuseoSansCyrl-500';	
+	margin-bottom:0;
+}
+
+.codeks_title.small{
+	margin:3px 0;
+	font-family: 'MuseoSansCyrl-500';	
+}

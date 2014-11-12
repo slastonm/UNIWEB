@@ -1,0 +1,104 @@
+.bg_mgmo{
+    height: 517px;
+    margin: 0 auto;
+    max-width: 1280px;
+    min-width: 582px;
+    background: url('../img/mgimo_photo.png')no-repeat scroll center 0 transparent;
+}
+.gradient_filter{
+    height: 517px;
+    margin: 0 auto;
+    max-width: 1280px;
+    min-width: 582px;
+    background: url('../img/gradient.png')no-repeat scroll center 0 transparent;
+}
+
+.name_instityt{
+    color: #ffffff;
+    font-size: 40px;
+    margin-top: 270px;
+    margin-bottom: 0;
+	font-family: 'MuseoSansCyrl-500';
+}
+
+.under_name_instityt{
+    color: #ffffff;
+    font-size: 20px;
+    margin: -2px 0 0 0;
+}
+
+.info_instityt{
+    margin-top: 65px;
+    color: #ffffff;
+}
+
+.info_instityt_big{
+    font-size: 40px;
+}
+
+.info_instityt p{
+    margin:9px 0 0 0;
+    padding: 0 76px 0 2px;
+}
+
+.info_instityt_text{
+    margin-top: 32px;
+    line-height: 18px;
+}
+
+.logo_link{
+    margin-top: 37px;
+    margin-left: 9px;
+}
+
+.logo_link a{
+	display: block;
+}
+
+.institute_video{
+	margin: 18px 0 35px 0;
+}
+
+.university_titcher_info{
+	font-family: 'MuseoSansCyrl-500';
+    font-size: 28px;
+    margin-top: 19px;
+    margin-bottom: 18px;
+    line-height: 32px;
+}
+
+.titcher_block p{
+    font-family: 'MuseoSansCyrl-700';
+    margin: 9px 0 3px 0;
+    line-height: 18px;
+}
+
+.titcher_block p a{ 
+	color:#333;
+}
+
+.titcher_block p+p{
+    font-family: 'MuseoSansCyrl-300';
+    margin: 0 0 60px 0;
+}
+
+.hour_bg{
+	margin:65px 0 0 0;
+	padding:0;
+}
+
+.hour_bg li{
+	list-style:none;
+	display:inline-block;
+	color:#fff;
+	font-size: 40px;
+	font-weight:700;
+}
+
+.hour_bg li p{
+	margin: 9px 0px 0px;
+	padding: 0px 76px 0px 2px;
+	font-size: 14px;
+	position:relative;
+	top: -19px;
+}

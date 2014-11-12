@@ -1,0 +1,115 @@
+.map{
+	height:495px;
+	margin-bottom:15px;
+	position:relative;
+}
+
+.map iframe{
+	border: 0;
+}
+.map_inner{
+	height:495px;
+	background:url(../img/gradient.png) left top repeat-x;
+	position: absolute;
+	bottom:0;
+	left:0;
+	width:100%;
+}	
+
+.map_buttons{
+	position:absolute;
+	left:35%;
+	bottom:55px;
+}
+
+.map_inner a{
+	display:block;
+	float:left;
+	width:250px;
+	height:34px;
+	background:#d8d8d8;
+	border:1px solid #d8d8d8;
+	color:#000;
+	line-height:34px;
+	text-align:center;
+}
+
+.map_inner a.chosen{
+	background:none;
+	color:#fff;
+}
+	
+.map_inner a.first{
+	border-radius:5px 0 0 5px;
+}
+
+.map_inner a.second{
+	border-radius:0 5px 5px 0;
+}
+
+.map_inner a:hover{
+	text-decoration:none;
+}
+
+.contacts{
+	margin-bottom:20px;
+}
+
+.contacts h3{
+	font-size:15px;
+	padding:0; 
+	margin:19px 0 0 0;
+	color:#4a4a4a;
+	font-family: 'MuseoSansCyrl-700'!important;
+}
+
+.contacts p{
+	margin:5px 0 0 0;
+	padding:0;
+
+}
+
+.contacts a{
+	font-size:14px;
+	line-height:15px;
+}
+
+.right_contact{
+	padding-top:19px;
+	margin-left:55px;
+}
+
+.right_contact table h2{
+	margin:0 0 5px;
+	padding:0;
+	font-size:19px;
+	font-family: 'MuseoSansCyrl-700'!important;
+}
+
+.right_contact table img{
+	margin-left:25px;
+}
+
+.right_contact table  p{
+	padding:0;
+	margin: 14px 0 0px -3px;
+	line-height:16px;
+}
+
+.right_contact table  p span{
+	font-size:20px;
+}
+
+.right_contact .adress{
+	margin-top:40px;
+}
+
+.right_contact .adress p{
+	margin-top:15px;
+}
+
+.right_contact .social{
+	margin-top:60px;
+	margin-right:0;
+	float:none;
+}

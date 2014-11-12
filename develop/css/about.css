@@ -1,0 +1,307 @@
+
+/*=============== about ==============*/
+
+.bg_team{
+    height:582px;
+    margin: 0 auto 32px;
+    max-width: 1280px;
+    min-width: 640px;
+    background: url('../img/team.png')no-repeat scroll center 0 transparent;
+}
+.bg_team h1{
+    color: #ffffff;
+    font-size: 40px;
+    margin-top: 485px;
+}
+.paragraph_wrapper{
+    margin-bottom: 55px;
+}
+.team_paragraph{
+    margin-top: 0;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+
+ul.team_paragraph_list{
+	list-style: none inside;
+	margin: 0 0 20px 5px;
+	padding: 0px;
+}
+
+ul.team_paragraph_list li:before{
+	content: "\2015";
+	margin-left: -4px;
+	margin-right: 4px;
+} 
+
+ul.team_paragraph_list li {
+	line-height:20px;
+	
+}
+
+ul.team_paragraph_list li{
+    list-style: none;
+}
+
+.univer_baner{
+    margin-bottom: 20px;
+}
+/*
+.univer_baner a{
+    color: #1559A8;
+    display: block;
+    margin-top: 2px;
+	font-family: 'MuseoSansCyrl-700';	
+}
+
+.all_univers{
+    padding-top: 9px;
+    width: 138px;
+    color: #1559A8;
+    display: block;
+    border-bottom: 1px solid #D8D8D8;
+	font-family: 'MuseoSansCyrl-700';	
+}*/
+
+.about_h2{
+	font-size:27px;
+	color:#000;
+	font-family: 'MuseoSansCyrl-700';
+	margin: 16px 0 19px;	
+}
+
+.press{
+	margin-bottom:50px;
+}
+
+.press	ul{
+	padding:0;
+	margin:0;
+	text-align:center;
+}
+
+.press li{
+	list-style:none;
+	display:inline-block;
+}
+
+.press li a{
+	display:inline-block;
+	margin:0 15px;
+
+}
+
+.rbk{
+	width:98px;
+	height:60px;
+	background:url(../img/press_logo.png) 0 0 no-repeat;
+}
+
+.rbk:hover{
+	background:url(../img/press_logo_hover.png) 0 0px no-repeat;
+}
+
+.otp{
+	width:124px;
+	height:60px;
+	background:url(../img/press_logo.png) -124px 0 no-repeat;
+}
+
+.otp:hover{
+	background:url(../img/press_logo_hover.png) -124px 0px no-repeat;
+}
+
+.executive{
+	width:125px;
+	height:60px;
+	background:url(../img/press_logo.png) -276px 0 no-repeat;
+}
+
+.executive:hover{
+	background:url(../img/press_logo_hover.png) -276px 0px no-repeat;
+}
+
+.runet{
+	width:122px;
+	height:60px;
+	background:url(../img/press_logo.png) -434px 0 no-repeat;	
+}
+
+.runet:hover{
+	background:url(../img/press_logo_hover.png) -434px 0px no-repeat;
+}
+
+.tandp{
+	width:55px;
+	height:60px;
+	background:url(../img/press_logo.png) -584px 0 no-repeat;
+}
+
+.tandp:hover{
+	background:url(../img/press_logo_hover.png) -584px 0px no-repeat;
+}
+
+.digit{
+	width:96px;
+	height:60px;
+	background:url(../img/press_logo.png) -664px 0 no-repeat;
+}
+
+.digit:hover{
+	background:url(../img/press_logo_hover.png) -664px 0px no-repeat;
+}
+
+.expert_online{
+	width:133px;
+	height:60px;
+	background:url(../img/press_logo.png) -791px 0 no-repeat;
+}
+
+.expert_online:hover{
+	background:url(../img/press_logo_hover.png) -791px 0px no-repeat;
+}
+
+.cykerberg{
+	width:151px;
+	height:60px;
+	background:url(../img/press_logo.png) 0px bottom no-repeat;
+}
+
+.cykerberg:hover{
+	background:url(../img/press_logo_hover.png) 0px bottom no-repeat;
+}
+
+.slon{
+	width:75px;
+	height:60px;
+	background:url(../img/press_logo.png) -175px bottom no-repeat;
+}
+
+.slon:hover{
+	background:url(../img/press_logo_hover.png) -175px bottom no-repeat;
+}
+
+.vedomosty{
+	width:131px;
+	height:50px;
+	margin-top:10px;
+	background:url(../img/press_logo.png) -276px bottom no-repeat;
+}
+
+.vedomosty:hover{
+	background:url(../img/press_logo_hover.png) -276px bottom no-repeat;
+}
+
+.komersant{
+	width:129px;
+	height:60px;
+	background:url(../img/press_logo.png) -438px bottom no-repeat;
+}
+
+.komersant:hover{
+	background:url(../img/press_logo_hover.png) -438px bottom no-repeat;
+}
+
+.expert{
+	width:112px;
+	height:60px;
+	background:url(../img/press_logo.png) -597px bottom no-repeat;
+}
+
+.expert:hover{
+	background:url(../img/press_logo_hover.png) -597px bottom no-repeat;
+}
+
+.rt{
+	width:61px;
+	height:60px;
+	background:url(../img/press_logo.png) -741px bottom no-repeat;
+}
+
+.rt:hover{
+	background:url(../img/press_logo_hover.png) -741px bottom no-repeat;
+}
+
+.rbk_daily{
+	width:107px;
+	height:60px;
+	background:url(../img/press_logo.png) -833px bottom no-repeat;
+}
+
+.rbk_daily:hover{
+	background:url(../img/press_logo_hover.png) -833px bottom no-repeat;
+}
+
+/*====== content about us==*/
+.big_comment_about{
+	width:90%;
+	margin-bottom:30px;
+}
+
+.big_comment_about:before,
+.big_comment_about:after {
+    content:"";
+    display:table;
+}
+
+.big_comment_about:after {
+    clear:both;
+}
+
+.ava_about_big_coment{
+	width:70px;
+	height:70px;
+	overflow:hidden;
+	float:left;
+}
+.big_comment_text{
+	float: right;
+	text-align: left;
+	width: 78%;
+}
+.big_comment_text a{
+	font-family: "MuseoSansCyrl-700";
+	font-size: 18px;
+	color: #333;
+	display: block;
+	margin-top: -2px;
+	text-decoration: none;
+}
+
+.about_sovet_block{
+	width:640px;
+	margin-bottom:30px;
+}
+
+.about_sovet_block:before,
+.about_sovet_block:after {
+    content:"";
+    display:table;
+}
+
+.about_sovet_block:after {
+    clear:both;
+}
+.sovet_ava{
+	width:70px;
+	height:70px;
+	overflow:hidden;
+	float:left;
+}
+
+.sovet_text{
+	width:550px;
+	float:right;
+	text-align:left;
+}
+
+.sovet_text a{
+	display: block;
+	margin-top: -2px;
+	color: #1559A8;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "MuseoSansCyrl-500";
+}
+
+

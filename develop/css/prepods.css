@@ -1,0 +1,48 @@
+.prepods_list{
+	margin:0;
+	padding:0;
+}
+
+.prepods_list li{
+	position: relative;
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+
+.prepods_list li div{
+	display:inline-block;
+}
+
+.prepods_ava{
+	position: absolute;
+	top: 0px;
+	width:70px;
+	height:70px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	border-radius: 100px;
+	overflow: hidden;
+
+}
+
+.prepods_info{
+	margin-left: 70px;
+	padding-left: 14px;
+	padding-bottom: 30px;
+}
+.prepods_info a{
+	display: block;
+	margin-top: -2px;
+	color: #1559A8;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "MuseoSansCyrl-500";
+}
+
+.prepods_info a+p{
+	margin: 0px 0px 5px;
+	font-family: "MuseoSansCyrl-500";
+	font-size: 12px;
+	color: #000;
+}

@@ -1,0 +1,60 @@
+.institut_block .univer_logo{
+	width:120px;
+	height:55px;
+	position:absolute;
+	top:15px;
+	left: 4px;
+	padding-left: 0;
+	background-color: none;
+	border: none;
+	border-radius: 0;
+	margin-left: 0;
+	box-shadow: none;
+}
+
+.title.univers{
+    font-family: "MuseoSansCyrl-500" !important;
+    margin-top: 12px;
+}
+
+.institut_block{
+	position:relative;
+    width: 472px;
+    height: 396px;
+    border-radius: 5px;
+    margin-bottom: 3px;
+	overflow: hidden;
+}
+
+.institut_block div{
+    width: 466px;
+    padding-left: 12px;
+    background-color: #FFF;
+    height: 115px;
+    border: 1px solid #DBDADE;
+    border-radius: 0px 0px 5px 5px;
+    margin-left: 3px;
+    -webkit-box-shadow: 0px 2px 6px 0px rgba(50, 50, 50, 0.2);
+    -moz-box-shadow:    0px 2px 6px 0px rgba(50, 50, 50, 0.2);
+    box-shadow:         0px 2px 6px 0px rgba(50, 50, 50, 0.2);
+}
+
+.institut_block div p{
+    margin-top: 7px;
+    font-family: "MuseoSansCyrl-500" !important;
+	font-size:12px;
+}
+
+.institut_block div a{
+    line-height: 22px;
+    font-size: 19px;
+    display: block;
+    color: #1559A8;
+    margin-top: -9px;
+    margin-bottom: 15px;
+    font-family: "MuseoSansCyrl-700" !important;
+}
+
+.institut_block div span{
+    color:#959595 ;
+}

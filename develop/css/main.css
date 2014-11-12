@@ -1,0 +1,363 @@
+.bg_image{
+    height: 517px;
+    margin: 0 auto;
+    max-width: 1600px;
+    min-width: 640px;
+    background: url('../img/bg1.png')no-repeat scroll center 0 transparent;
+    background-position:right;
+
+}
+
+.bg_title{
+   color: #ffffff;
+   margin-top: 59px;
+   margin-bottom: 16px;
+    font-size: 41px;
+    line-height: 43px;
+    font-family: MuseoSansCyrl-500 !important;
+}
+
+.bg_image ul{
+    margin: 0 0 16px 0px;
+    padding: 0;
+}
+
+.bg_image ul li{
+    list-style-image: url("../img/prefix.png");
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.bg_image a{
+    color: #ffffff;
+    text-decoration: underline;
+}
+/* ========= add style to main===== */
+
+ #main_hour_table {
+	margin:120px 0 0 0;
+	padding:0;
+}
+
+
+ #main_hour_table li{
+	color: #FFF;
+	list-style:none;
+	display:inline-block;
+}
+ #main_hour_table .main_big_hour{
+	font-size: 40px;
+	color: #FFF;
+ }
+ #main_hour_table .min_big_hour{
+	padding: 10px 39px 0px 5px;
+	font-size:14px;
+	position: relative;
+	top: -19px;
+}
+.main_coments_block{
+	width:372px;
+	margin-bottom: 52px;
+}
+
+.main_coments_block:before,
+.main_coments_block:after {
+    content:"";
+    display:table;
+}
+.main_coments_block:after {
+    clear:both;
+}
+
+.main_coment_ava{
+	width:70px;
+	height:70px;
+	border-radius:100px;
+	overflow:hidden;
+	display:inline-block;
+	float:left;
+}
+.main_coment_text{
+	text-align: left;
+	float: right;
+	width: 302px;
+}
+.main_coment_text p{
+font-weight:700;
+	padding-left: 7px;
+	font-family: "MuseoSansCyrl-500";
+	margin: 0px;
+}
+.main_coment_text p+p{
+	font-family: "MuseoSansCyrl-300";
+	font-weight: normal;
+	margin-top: 3px;
+	line-height: 15px;
+}
+
+/* ==============================  slider =======================*/
+	.howtostudy-4 .container {
+	
+	}
+		.howtostudy-4 .inner {
+			padding-top: 0px;
+			padding-bottom: 85px;
+			margin-left: 29px;
+		}
+			.howtostudy-4 .inner h1 {
+			margin-top: 15px;
+			margin-bottom:70px;
+			font-size: 32px;
+			font-weight: normal;
+			text-align: right;
+
+			}
+			.howtostudy-4 .inner ul {
+			list-style: none;
+			margin: 0;
+			}
+				.howtostudy-4 .inner ul li {
+				list-style: none;
+				width:200px;
+				font-family: 'PT Sans', sans-serif;
+				font-weight: 300;
+				font-size: 16px;
+				display: block;
+				padding: 0;
+				}
+					.howtostudy-4 .inner ul li a {
+					padding-left: 15px;
+					display: block;
+					border: solid 1px transparent;
+					line-height: 46px;
+					color: #6d6d6d;
+					text-decoration: none;
+					cursor: default;
+					}
+					.howtostudy-4 .inner ul li a:hover,
+					.howtostudy-4 .inner ul li.active a {
+					border-color: #1472d4;
+					color: #1472d4;
+					}
+			
+			.howtostudy-4 .inner .mac {
+			background: url(../../images/howtostudy-4-mac.png) 0 0 no-repeat;
+			width: 625px;
+			height: 511px;
+			float: left;
+			margin-left: 25px;
+			}
+				.howtostudy-4 .inner .mac .mac-img {
+				float: left;
+				margin-left: 27px;
+				margin-top: 26px;
+				width: 494px;
+				height: 278px;
+				box-shadow: 0 0 4px rgba(21, 21, 21, 0.75) inset;
+				overflow: hidden;
+				position: relative;
+				}
+					.howtostudy-4 .inner .mac .mac-img div {
+					position: absolute;
+					left: 0;
+					top: 0;
+					width: 10000px;
+					}
+						.howtostudy-4 .inner .mac .mac-img div img {
+						min-height: 100%;
+						}
+						
+						
+						
+						.howtostudy-4 .inner ul li a:hover, .howtostudy-4 ul li.active a {
+    border-color: #1472D4;
+    color: #1472D4;}
+					
+					
+
+.mac .mac_bg{
+
+    background-image: url('../img/mac2.png') ;
+    width: 657px;
+    height: 471px;
+}
+.border_gray{
+    width: 100%;
+    height: 1px;
+    background: #D8D8D8;
+}
+.mac-img-nav{
+margin:-370px 130px 0 0;
+}
+.mac-img-nav li{
+	list-style: outside none none;
+	width: 207px;
+	font-weight: 300;
+	font-size: 16px;
+	display: block;
+	padding: 0px;
+}
+.mac-img-nav li a{
+	padding-left: 5px;
+	border: 1px solid transparent;
+	line-height: 46px;
+	color: #6D6D6D;
+	text-decoration: none;
+	cursor: default;
+	display: block;
+	text-align: center;
+	padding-right: 5px;
+}
+.mac-img-nav li a:hover{
+	border-color: #1472D4;
+	color: #1472D4;
+}
+
+.diplom_title {
+	margin-top:15px;
+}
+
+.diplom_title.slide {
+    margin-bottom: 15px;
+    margin-top: 25px !important;
+}
+
+
+.bg_image table{
+    margin-top: 120px;
+}
+
+.big{
+    font-size: 40px;
+    color: #ffffff;
+ }
+ 
+.small_text{
+    color: #ffffff;
+    padding: 10px 39px 0 5px;
+} 
+
+#social_bg{
+margin-right: 80px;
+margin-top: -52px;
+
+}
+
+#social_bg{
+    float: right;
+}
+
+#social_bg li{
+    margin:0 ;
+    padding:0;
+}
+
+#social_bg li,#social_bg a{
+    height:28px;
+    display:inline-block;
+}
+
+.social_position{
+position:relative;
+    top: -40px;
+    right: 50px;
+}
+
+.diplom_title{
+    color: #000000;
+    font-size: 28px;
+    font-family: MuseoSansCyrl-500 !important;
+    margin-bottom: 16px;
+}
+
+.small_diplom_title{
+    color: #000000;
+    font-size: 13px;
+    margin-top: -12px;
+}
+
+.diplom_block.two{
+	margin-left: 10px;
+}
+
+.diplom_block a{
+    display: block;
+    font-size: 19px;
+    color: #1559A8;
+    line-height: 21px;
+    margin-top: 12px;
+}
+
+.diplom_block p{
+    color: #959595;
+    margin-top: 8px;
+}
+
+.diplom_block.three{
+    margin-left: 12px;
+}
+
+.mail_line{
+    background-color: #091f50;
+    height: 145px;
+}
+
+.border_in_email{
+    width: 100%;
+    padding: 5px;
+    border-bottom: 1px solid #071a44;
+}
+
+.border_in_email div{
+    padding-bottom: 37px;
+    width: 453px;
+    margin: 0px auto;
+}
+
+.border_in_email p{
+    margin-top: 33px;
+    font-size: 13px;
+    color: #ffffff;
+   margin-bottom: 3px;
+}
+
+.form-control.ing{
+    width: 300px;
+}
+.border_in_email a{
+    text-align: center;
+    padding: 7px 42px;
+    border-radius: 3px;
+    display: inline-block;
+    background: none repeat scroll 0% 0% #E75655;
+    color: #FFF;
+    float: right;
+    position: relative;
+    top: -34px;
+}
+.border_in_email a:hover{
+	opacity:0.8;
+	color:#fff ;
+	text-decoration:none;
+	transition: 2s;
+}
+
+.slide_text:first-child{
+    margin-top: 5px;
+}
+.slide_text a{
+    color: #333;
+}
+
+.mac .mac_bg{
+    background-image: url('../img/mac2.png') ;
+    width: 657px;
+    height: 471px;
+}
+.border_gray{
+    width: 100%;
+    height: 1px;
+    background: #D8D8D8;
+}
+

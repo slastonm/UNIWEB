@@ -1,0 +1,95 @@
+
+.about_teacher{
+    line-height: 18px;
+	margin: 15px 0px 10px;
+}
+
+.teacher_img{
+    margin-top: 115px;
+    margin-left: -30px;
+}
+
+.teacher_hour{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.teacher_hour p{
+    font-size: 12px;
+    font-family: 'MuseoSansCyrl-300'!important;
+    font-weight: normal;
+    margin-right: 84px;
+}
+
+.program_and_cours{
+    margin-top: 18px;
+    margin-bottom: 5px;
+    color: #333;
+    font-size: 28px;
+    font-family: MuseoSansCyrl-500 !important;
+}
+
+.cours_link{
+    margin-bottom: 8px;
+    line-height: 15px;
+    display: block;
+    color: #1559A8;
+}
+
+.teacher_name_block{
+	position:relative;
+	margin-top:40px;
+}
+
+.teacher_name_block div{
+	display:inline-block;
+	width:150px;
+	height:150px;
+	overflow:hidden;
+	border-radius: 100px;
+}
+
+.teacher_name_block h1{
+	display:inline-block;
+	font-size: 28px;
+	position: absolute;
+    bottom:60px;
+    margin: 0 0 0 15px;
+	line-height: 32px;
+	font-family: "MuseoSansCyrl-500" !important;
+}
+
+
+.teacher_hour_list{
+	margin:40px 0;
+	padding:0;
+}
+
+.teacher_hour_list li{
+	margin:0;
+	padding:0;
+	list-style:none;
+	display:inline-block;
+}
+
+.teacher_hour_list li img{
+	padding-right: 30px;
+}
+
+.teacher_hour_list li p{
+	font-size: 12px;
+	font-family: "MuseoSansCyrl-300" !important;
+	font-weight: normal;
+	margin-right: 84px;
+	position: relative;
+	top: -11px;
+}
+
+.teacher_hour_list .big_teacher_time {
+	margin: 0;
+	position:relative;
+	top: 7px;
+	font-weight: 700;
+	font-size: 38px;
+	padding-right: 2px;
+}

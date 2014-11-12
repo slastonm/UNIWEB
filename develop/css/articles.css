@@ -1,0 +1,40 @@
+
+
+.year_block{
+    float: right;
+}
+
+.year{
+    margin: 0;
+    padding: 0;
+}
+
+.year li{
+    list-style: none;
+}
+
+.year_title{
+    margin-top: 0;
+    margin-bottom: 7px;
+    font-family: 'MuseoSansCyrl-700'!important;
+}
+
+.year li{
+    padding-bottom: 3px;
+}
+
+.year li span{
+    padding-left: 3px;
+    color: #959595
+}
+.year li a{
+    color: #1559A8;
+}
+
+.year .actie_year a{
+    color: #E75655!important;
+}
+
+.year .actie_year{
+    list-style-image: url("../img/icon_yes.png");
+}
